@@ -1,8 +1,8 @@
-##**DATA ANALYST ENTHUSIAST**
-####**Technical Skills: Python, SQL, Tableau**
+## **DATA ANALYST ENTHUSIAST**
+#### **Technical Skills: Python, SQL, Tableau**
 <br>
 
-###**EDUCATION**
+### **EDUCATION**
 
 M.Eng in Chemical Engineering (March 2015)
 <br>University of Indonesia (UI), Depok (Indonesia) 
@@ -12,7 +12,7 @@ B.Eng in Bioengineering (August 2020)
 
 <br>
 
-###**WORK EXPERIENCE**
+### **WORK EXPERIENCE**
 
 **Chemical Engineer at PT. Feng Tay Indonesia Enterprises**
 <br>June 2021 – Februray 2024
@@ -37,7 +37,7 @@ B.Eng in Bioengineering (August 2020)
 
 <br>
 
-###**LICENSE AND CERTIFICATE**
+### **LICENSE AND CERTIFICATE**
 
 **Google Data Analytics**
 <br>Google Career Certificates [Credentials](https://coursera.org/share/d40723f5beeef35333674e8fa82007e7)
@@ -61,7 +61,7 @@ B.Eng in Bioengineering (August 2020)
 
 <br>
 
-###**ADDITIONAL INFORMATION**
+### **ADDITIONAL INFORMATION**
 
 **PUBLICATION**
 <br>Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug [Ijtech Link](https://ijtech.eng.ui.ac.id/article/view/4332)
