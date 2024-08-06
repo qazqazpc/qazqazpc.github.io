@@ -3,9 +3,9 @@
 <br>
 
 ### **EDUCATION**
-**M.Eng in Chemical Engineering** | University of Indonesia (March 2015)
+**M.Eng in Chemical Engineering** | University of Indonesia (August 2020)
 
-**B.Eng in Bioengineering** | Bandung Institute of Technology (August 2020)
+**B.Eng in Bioengineering** | Bandung Institute of Technology (March 2015)
 <br><br>
 
 ### **WORK EXPERIENCE**
