@@ -50,7 +50,6 @@
   - SQL and Python Programming
   - IBM Cognos Analytics and Google Looker Studio
 <br>
-<br>
 
 ### **ADDITIONAL INFORMATION**
 **PUBLICATION**
