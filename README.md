@@ -1,6 +1,7 @@
 ## **DATA ANALYST ENTHUSIAST**
 #### **Technical Skills: Python, SQL, Tableau**
 
+
 ### **EDUCATION**
 
 M.Eng in Chemical Engineering (March 2015)
