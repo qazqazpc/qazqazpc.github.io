@@ -3,8 +3,6 @@
 <br>
 
 ### **EDUCATION**
-<br>
-
 **M.Eng in Chemical Engineering** (March 2015)
 <br>University of Indonesia (UI), Depok (Indonesia) 
 
@@ -34,7 +32,6 @@
 <br>
 
 ### **LICENSE AND CERTIFICATE**
-
 **Google Data Analytics**
 <br>Google Career Certificates [Credentials](https://coursera.org/share/d40723f5beeef35333674e8fa82007e7)
   - Data Analysis & Data-driven Decision Making
@@ -57,7 +54,6 @@
 <br>
 
 ### **ADDITIONAL INFORMATION**
-
 **PUBLICATION**
 <br>Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug [Ijtech Link](https://ijtech.eng.ui.ac.id/article/view/4332)
 <br>Diabetes mellitus is one of the metabolic diseases, characterized by hyperglycemia, which is usually caused by endogenous glucose production through gluconeogenesis. Furthermore, fructose 1,6-bisphosphatase (FBPase), which is the last enzyme involved in gluconeogenesis, is used as inhibition target due to its relatively safe effect. In addition, It is known that propolis has shown antidiabetic activity through some sets of mechanisms due to its varied constituents. Therefore, this study aims to explore the antidiabetic activity of South Sulawesi propolis compounds against the allosteric site of FBPase (PDB ID: 3KC1) through molecular docking on Autodock Vina. The results show that 18 out of 30 propolis compounds outweigh AMP affinity. Furthermore, only two flavonoids showed 100% interaction similarity to the re-docked native ligand and AMP natural inhibition. These two compounds were Broussoflavonol F and Glyasperin A, which had docking score of -9 kcal/mol and -8.2 kcal/mol, respectively. This indicates that both compounds are capable of being used as FBPase inhibitors for the treatment of diabetes mellitus. This research employ some docking and modelling tools like **Python Molecular Views (PMV), Autodock, etc**.
