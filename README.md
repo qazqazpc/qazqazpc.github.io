@@ -9,7 +9,7 @@
 **B.Eng in Bioengineering** (August 2020)
 <br>Bandung Institute of Technology (ITB), Bandung (Indonesia) 
 <br>
-
+<br>
 
 ### **WORK EXPERIENCE**
 **Chemical Engineer at PT. Feng Tay Indonesia Enterprises**
@@ -20,7 +20,6 @@
   - Troubleshoot chemical process-related issue.
   - Improve and adjust standard operational procedures (SOPs).
   - Develop action plan and implement the continuous improvements
-<br>
 
 **Research Assistant at Faculty of Engineering, University of Indonesia**
 <br>May 2019 – March 2020
