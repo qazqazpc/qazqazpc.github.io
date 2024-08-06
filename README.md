@@ -17,7 +17,7 @@
   - Conduct chemical process audit and inspection.
   - Conduct trial of new material and pre-production testing. 
   - Troubleshoot chemical process-related issue.
-  - Find actionable insight from production data and implement the continuous improvements.
+  - Find actionable **insight** from production data and implement the continuous improvements.
 
 **Research Assistant at Faculty of Engineering, University of Indonesia**
 <br>May 2019 – March 2020
@@ -25,7 +25,8 @@
   - Manage community services collaborating with government.
   - Conduct research collaborations with universities and companies.
   - Conduct research methodologies training.
-  - Liaison officer for foreign students and researchers<br>
+  - Liaison officer for foreign students and researchers
+  - Present research/project finding and progress to **stakeholders**<br>
 <br>
 
 ### **LICENSE AND CERTIFICATE**
