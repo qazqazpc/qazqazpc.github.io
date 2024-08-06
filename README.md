@@ -20,8 +20,8 @@ B.Eng in Bioengineering (August 2020)
   - Conduct trial of new material and pre-production testing. 
   - Troubleshoot chemical process-related issue.
   - Improve and adjust standard operational procedures (SOPs).
-  - Develop action plan and implement the continuous improvements
-<br>Business or sector Manufacturing
+  - Develop action plan and implement the continuous improvements<br>
+Business or sector Manufacturing
 
 **Research Assistant at Faculty of Engineering, University of Indonesia**
 <br>May 2019 – March 2020
@@ -29,8 +29,8 @@ B.Eng in Bioengineering (August 2020)
   - Manage community services collaborating with government
   - Conduct research collaborations with universities and companies
   - onduct research methodologies training 
-  - Liaison officer for foreign students and researchers
-<br>Business or sector  Education 
+  - Liaison officer for foreign students and researchers<br>
+Business or sector  Education 
 
 <br>
 
