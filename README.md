@@ -1,6 +1,6 @@
 ## **DATA ANALYST ENTHUSIAST**
 #### **Technical Skills: Python, SQL, Tableau**
-
+<br>
 
 ### **EDUCATION**
 **M.Eng in Chemical Engineering** (March 2015)
@@ -8,8 +8,8 @@
 
 **B.Eng in Bioengineering** (August 2020)
 <br>Bandung Institute of Technology (ITB), Bandung (Indonesia) 
-<br>
-<br>
+<br><br>
+
 
 ### **WORK EXPERIENCE**
 **Chemical Engineer at PT. Feng Tay Indonesia Enterprises**
