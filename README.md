@@ -20,7 +20,8 @@ B.Eng in Bioengineering (August 2020)
   - Conduct trial of new material and pre-production testing. 
   - Troubleshoot chemical process-related issue.
   - Improve and adjust standard operational procedures (SOPs).
-  - Develop action plan and implement the continuous improvements<br>
+  - Develop action plan and implement the continuous improvements
+<br>
 
 **Research Assistant at Faculty of Engineering, University of Indonesia**
 <br>May 2019 – March 2020
@@ -29,8 +30,8 @@ B.Eng in Bioengineering (August 2020)
   - Conduct research collaborations with universities and companies
   - onduct research methodologies training 
   - Liaison officer for foreign students and researchers<br>
-
 <br>
+
 ### **LICENSE AND CERTIFICATE**
 
 **Google Data Analytics**
@@ -52,18 +53,15 @@ B.Eng in Bioengineering (August 2020)
   - Data Wrangling, Web Scraping and Visualization
   - SQL and Python Programming
   - IBM Cognos Analytics and Google Looker Studio
-
 <br>
 
 ### **ADDITIONAL INFORMATION**
 
 **PUBLICATION**
 <br>Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug [Ijtech Link](https://ijtech.eng.ui.ac.id/article/view/4332)
+<br>Diabetes mellitus is one of the metabolic diseases, characterized by hyperglycemia, which is usually caused by endogenous glucose production through gluconeogenesis. Furthermore, fructose 1,6-bisphosphatase (FBPase), which is the last enzyme involved in gluconeogenesis, is used as inhibition target due to its relatively safe effect. In addition, It is known that propolis has shown antidiabetic activity through some sets of mechanisms due to its varied constituents. Therefore, this study aims to explore the antidiabetic activity of South Sulawesi propolis compounds against the allosteric site of FBPase (PDB ID: 3KC1) through molecular docking on Autodock Vina. The results show that 18 out of 30 propolis compounds outweigh AMP affinity. Furthermore, only two flavonoids showed 100% interaction similarity to the re-docked native ligand and AMP natural inhibition. These two compounds were Broussoflavonol F and Glyasperin A, which had docking score of -9 kcal/mol and -8.2 kcal/mol, respectively. This indicates that both compounds are capable of being used as FBPase inhibitors for the treatment of diabetes mellitus. This research employ some docking and modelling tools like **Python Molecular Views (PMV), Autodock, etc**.
 
 **PORTOFOLIO**
 <br>IBM Data Analyst Capstone: House Pricing Analysis in Bandung [On KAGGLE](https://www.kaggle.com/code/nizarfaris/house-pricing-analysis-in-bandung)
-
-**BOOK**
-<br>Content Editor in Published Book by Universitas Indonesia Publishing with The Title “Sting
-and Stingless Bees” ISBN 978-979-456-865-1 or 978-979-456-866-8 [PDF Link](https://books.google.co.id/books?id=JI8EEAAAQBAJ&dq=ISBN+%22978-979-456-865-1%22&source=gbs_navlinks_s)
+<br>This project aims to find the right home in Bandung City. Finding the right home at the right price is a universal challenge, and in Indonesia's dynamic property market, this can be especially true. This case study delves into the factors influencing house pricing within Bandung City, the capital of West Java province. Surrounded by breathtaking volcanoes and lush tea plantations, Bandung is a magnet for both those seeking a place to live and those looking to invest. The city pulsates with a youthful energy thanks to its thriving university scene, while its colonial and art deco buildings offer a glimpse into its rich history. However, navigating the real estate market in Bandung can be a challenge, requiring careful consideration of various factors. This case study aims to provide valuable insights into house pricing trends in Bandung City. We will explore the key factors that influence property values, analyze market data, and identify potential opportunities for informed investment decisions. This project employ some programming and visualization tools like **Jupyter Notebook, Python, SQL and Tableau**.
 
