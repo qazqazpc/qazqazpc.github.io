@@ -7,10 +7,8 @@
 <br>University of Indonesia (UI), Depok (Indonesia) 
 
 **B.Eng in Bioengineering** (August 2020)
-<br>Bandung Institute of Technology (ITB), Bandung (Indonesia) 
-<br><br>
-
-
+<br>Bandung Institute of Technology (ITB), Bandung (Indonesia)
+<br>
 
 ### **WORK EXPERIENCE**
 **Chemical Engineer at PT. Feng Tay Indonesia Enterprises**
@@ -53,6 +51,7 @@
   - IBM Cognos Analytics and Google Looker Studio
 <br>
 <br>
+
 ### **ADDITIONAL INFORMATION**
 **PUBLICATION**
 <br>Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug [Ijtech Link](https://ijtech.eng.ui.ac.id/article/view/4332)
