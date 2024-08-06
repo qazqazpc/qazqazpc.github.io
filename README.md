@@ -1,6 +1,6 @@
 ## **DATA ANALYST ENTHUSIAST**
 #### **Technical Skills: Python, SQL, Tableau**
-<br>
+
 
 ### **EDUCATION**
 **M.Eng in Chemical Engineering** (March 2015)
@@ -51,7 +51,7 @@
   - SQL and Python Programming
   - IBM Cognos Analytics and Google Looker Studio
 <br>
-
+<br>
 ### **ADDITIONAL INFORMATION**
 **PUBLICATION**
 <br>Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug [Ijtech Link](https://ijtech.eng.ui.ac.id/article/view/4332)
