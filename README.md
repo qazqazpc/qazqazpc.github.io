@@ -21,7 +21,6 @@ B.Eng in Bioengineering (August 2020)
   - Troubleshoot chemical process-related issue.
   - Improve and adjust standard operational procedures (SOPs).
   - Develop action plan and implement the continuous improvements<br>
-Business or sector Manufacturing
 
 **Research Assistant at Faculty of Engineering, University of Indonesia**
 <br>May 2019 – March 2020
@@ -30,10 +29,8 @@ Business or sector Manufacturing
   - Conduct research collaborations with universities and companies
   - onduct research methodologies training 
   - Liaison officer for foreign students and researchers<br>
-Business or sector  Education 
 
 <br>
-
 ### **LICENSE AND CERTIFICATE**
 
 **Google Data Analytics**
