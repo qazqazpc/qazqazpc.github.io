@@ -1,6 +1,6 @@
 ## **DATA ANALYST ENTHUSIAST**
 #### **Technical Skills: Python, SQL, Tableau**
-<br>
+<br><br>
 
 ### **EDUCATION**
 
