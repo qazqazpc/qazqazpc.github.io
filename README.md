@@ -17,15 +17,14 @@
   - Conduct chemical process audit and inspection.
   - Conduct trial of new material and pre-production testing. 
   - Troubleshoot chemical process-related issue.
-  - Improve and adjust standard operational procedures (SOPs).
-  - Develop action plan and implement the continuous improvements
+  - Find actionable insight from production data and implement the continuous improvements.
 
 **Research Assistant at Faculty of Engineering, University of Indonesia**
 <br>May 2019 – March 2020
 
-  - Manage community services collaborating with government
-  - Conduct research collaborations with universities and companies
-  - onduct research methodologies training 
+  - Manage community services collaborating with government.
+  - Conduct research collaborations with universities and companies.
+  - Conduct research methodologies training.
   - Liaison officer for foreign students and researchers<br>
 <br>
 
