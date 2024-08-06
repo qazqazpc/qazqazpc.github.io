@@ -8,7 +8,7 @@
 
 **B.Eng in Bioengineering** (August 2020)
 <br>Bandung Institute of Technology (ITB), Bandung (Indonesia)
-<br>
+<br><br>
 
 ### **WORK EXPERIENCE**
 **Chemical Engineer at PT. Feng Tay Indonesia Enterprises**
