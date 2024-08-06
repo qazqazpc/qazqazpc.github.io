@@ -1,7 +1,9 @@
 ##**DATA ANALYST ENTHUSIAST**
+
 **Technical Skills: Python, SQL, Tableau**
 
 ##**EDUCATION**
+
 M.Eng in Chemical Engineering (March 2015)
   University of Indonesia (UI), Depok (Indonesia) 
 
@@ -10,6 +12,7 @@ B.Eng in Bioengineering (August 2020)
 
 
 ##**WORK EXPERIENCE** 
+
 **PT. Feng Tay Indonesia Enterprises**
 June 2021 – Februray 2024
 Chemical Engineer 
@@ -20,7 +23,6 @@ Chemical Engineer
   - Improve and adjust standard operational procedures (SOPs).
   - Develop action plan and implement the continuous improvements
 Business or sector Manufacturing
-
 
 **Faculty of Engineering, University of Indonesia**
 May 2019 – March 2020
@@ -34,6 +36,7 @@ Business or sector  Education
 
 
 ##**LICENSE AND CERTIFICATE**
+
 **Google Data Analytics**
 Google Career Certificates [Credentials](https://coursera.org/share/d40723f5beeef35333674e8fa82007e7)
   - Data Analysis & Data-driven Decision Making
@@ -56,6 +59,7 @@ IBM Skills Network [Credentials](https://coursera.org/share/b597d66c4f19cc05466c
 
 
 ##**ADDITIONAL INFORMATION**
+
 **PUBLICATION**
 Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug [Ijtech Link](https://ijtech.eng.ui.ac.id/article/view/4332)
 
