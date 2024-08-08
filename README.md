@@ -1,6 +1,5 @@
 #### **EDUCATION**
 **M.Eng in Chemical Engineering** | University of Indonesia (August 2020)
-
 **B.Eng in Bioengineering** | Bandung Institute of Technology (March 2015)
 <br><br>
 
@@ -10,7 +9,6 @@
 #### **WORK EXPERIENCE**
 **Chemical Engineer at PT. Feng Tay Indonesia Enterprises**
 <br>June 2021 – February 2024
-
   - Conduct chemical process audit and inspection.
   - Conduct trial of new material and pre-production testing. 
   - Troubleshoot chemical process-related issue.
@@ -18,7 +16,6 @@
 
 **Research Assistant at Faculty of Engineering, University of Indonesia**
 <br>May 2019 – March 2020
-
   - Manage community services collaborating with government.
   - Conduct research collaborations with universities and companies.
   - Conduct research methodologies training.
