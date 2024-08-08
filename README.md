@@ -29,12 +29,14 @@
   - Data Analysis & Data-driven Decision Making
   - Data Collection, Ethics, Cleaning, Integrity, and Visualization
   - SQL and R Programming
-  - Tableau 
+  - Tableau
+<br>
 **Google Business Intelligence**
 <br>Google Career Certificates [Credentials](https://coursera.org/share/c676bda4003fcc4a429bf35dd652ceb6)
   - Design data visualizations
   - Data modelling and extract, transform, load (ETL)
-  - Dashboards that effectively communicate data insights 
+  - Dashboards that effectively communicate data insights
+<br>
 **IBM Data Analyst**
 <br>IBM Skills Network [Credentials](https://coursera.org/share/b597d66c4f19cc05466c6c421c5f589f)
   - Data Analysis & Data-driven Decision Making
