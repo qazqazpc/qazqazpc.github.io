@@ -45,5 +45,5 @@ Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio
   - IBM Cognos Analytics and Google Looker Studio
 <br>
 
-### [<font color='Green'>PORTOFOLIO LINK</font>](./Portofolio)
+### [<font color='Green'>PORTOFOLIO LINK</font>](/Portofolio)
 
