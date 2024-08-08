@@ -1,14 +1,14 @@
-## **DATA ANALYST ENTHUSIAST**
-#### **Technical Skills: Python, SQL, Tableau**
+### **DATA ANALYST ENTHUSIAST**
+##### **Technical Skills: Python, SQL, Tableau**
 <br>
 
-### **EDUCATION**
+#### **EDUCATION**
 **M.Eng in Chemical Engineering** | University of Indonesia (August 2020)
 
 **B.Eng in Bioengineering** | Bandung Institute of Technology (March 2015)
 <br><br>
 
-### **WORK EXPERIENCE**
+#### **WORK EXPERIENCE**
 **Chemical Engineer at PT. Feng Tay Indonesia Enterprises**
 <br>June 2021 – February 2024
 
@@ -27,7 +27,7 @@
   - Present research/project finding and progress to **stakeholders**<br>
 <br>
 
-### **LICENSE AND CERTIFICATE**
+#### **LICENSE AND CERTIFICATE**
 **Google Data Analytics**
 <br>Google Career Certificates [Credentials](https://coursera.org/share/d40723f5beeef35333674e8fa82007e7)
   - Data Analysis & Data-driven Decision Making
@@ -49,5 +49,5 @@
   - IBM Cognos Analytics and Google Looker Studio
 <br><br>
 
-## [<font color='Green'>Portofolio</font>](qazqazpc.github.io)
+### [<font color='Green'>Portofolio</font>](qazqazpc.github.io)
 
