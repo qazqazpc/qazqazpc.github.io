@@ -49,5 +49,5 @@
   - IBM Cognos Analytics and Google Looker Studio
 <br><br>
 
-### [<font color='Green'>Portofolio</font>](qazqazpc.github.io)
+### [<font color='Green'>Portofolio</font>](qazqazpc.github.io/Portofolio)
 
