@@ -3,7 +3,8 @@
 **<font color='purple'>B.Eng in Bioengineering</font>** | Bandung Institute of Technology (March 2015)
 <br>
 
-#### **<font color= 'blue'>TECHNICAL SKILLS</font>: Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio**
+#### **<font color= 'blue'>TECHNICAL SKILLS</font>**
+<br>Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio
 
 #### **<font color= 'blue'>WORK EXPERIENCE</font>**
 **<font color='purple'>Chemical Engineer at PT. Feng Tay Indonesia Enterprises</font>**
