@@ -4,7 +4,7 @@
 <br>
 
 #### **<font color= 'blue'>TECHNICAL SKILLS</font>**
-<br>Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio
+Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio
 
 #### **<font color= 'blue'>WORK EXPERIENCE</font>**
 **<font color='purple'>Chemical Engineer at PT. Feng Tay Indonesia Enterprises</font>**
