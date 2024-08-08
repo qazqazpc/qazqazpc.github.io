@@ -49,12 +49,5 @@
   - IBM Cognos Analytics and Google Looker Studio
 <br><br>
 
-### **ADDITIONAL INFORMATION**
-**PUBLICATION**
-<br>**Molecular Docking of South Sulawesi Propolis against Fructose 1,6-Bisphosphatase as a Type 2 Diabetes Mellitus Drug** [**<font color='blue'>Ijtech Link</font>**](https://ijtech.eng.ui.ac.id/article/view/4332)
-<br>Diabetes mellitus is one of the metabolic diseases, characterized by hyperglycemia, which is usually caused by endogenous glucose production through gluconeogenesis. Furthermore, fructose 1,6-bisphosphatase (FBPase), which is the last enzyme involved in gluconeogenesis, is used as inhibition target due to its relatively safe effect. In addition, It is known that propolis has shown antidiabetic activity through some sets of mechanisms due to its varied constituents. Therefore, this study aims to explore the antidiabetic activity of South Sulawesi propolis compounds against the allosteric site of FBPase (PDB ID: 3KC1) through molecular docking on Autodock Vina. The results show that 18 out of 30 propolis compounds outweigh AMP affinity. This research employ some docking and modelling tools like **Python Molecular Views (PMV), Autodock, etc**.
-
-**PORTOFOLIO**
-<br>**IBM Data Analyst Capstone: House Pricing Analysis in Bandung** [**<font color='blue'>On KAGGLE</font>**](https://www.kaggle.com/code/nizarfaris/house-pricing-analysis-in-bandung)
-<br>This project aims to find the right home in Bandung City. Finding the right home at the right price is a universal challenge, and in Indonesia's dynamic property market, this can be especially true. This case study delves into the factors influencing house pricing within Bandung City, the capital of West Java province. However, navigating the real estate market in Bandung can be a challenge, requiring careful consideration of various factors. This case study aims to provide valuable insights into house pricing trends in Bandung City. This project employ some programming and visualization tools like **Jupyter Notebook, Python, SQL and Tableau**.
+## [<font color='Green'>Portofolio</font>](qazqazpc.github.io)
 
