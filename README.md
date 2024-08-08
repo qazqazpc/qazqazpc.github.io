@@ -1,3 +1,5 @@
+### [<font color='Green'>PORTOFOLIO LINK</font>](/Portofolio)
+
 #### **<font color= 'blue'>EDUCATION</font>**
 **<font color='purple'>M.Eng in Chemical Engineering</font>** | University of Indonesia (August 2020)<br>
 **<font color='purple'>B.Eng in Bioengineering</font>** | Bandung Institute of Technology (March 2015)
@@ -43,7 +45,6 @@ Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio
   - Data Wrangling, Web Scraping and Visualization
   - SQL and Python Programming
   - IBM Cognos Analytics and Google Looker Studio
-<br>
 
-### [<font color='Green'>PORTOFOLIO LINK</font>](/Portofolio)
+
 
