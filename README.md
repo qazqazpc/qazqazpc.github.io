@@ -4,7 +4,7 @@
 **B.Eng in Bioengineering** | Bandung Institute of Technology (March 2015)
 <br><br>
 
-#### **Technical Skills: Python, SQL, Tableau**
+#### **TECHNICAL SKILLS: Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio**
 <br>
 
 #### **WORK EXPERIENCE**
