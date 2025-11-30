@@ -47,7 +47,7 @@ Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio, Minit
   - IBM Cognos Analytics and Google Looker Studio
 
 **<font color='purple'>Certified Lean Six Sigma Green Belt</font>**
-<br>Skillfront, Prodemy [Credentials]([https://coursera.org/share/b597d66c4f19cc05466c6c421c5f589f](https://www.skillfront.com/certifications/SkillFront-SFE062a7901c8905-79147802179558.pdf)),[Credentials](https://github.com/qazqazpc/qazqazpc.github.io/blob/main/Image/M%20NIZAR%20HAMZAH%20A%20-%20CLSSGB.pdf)
+<br>Skillfront [Credentials]([https://coursera.org/share/b597d66c4f19cc05466c6c421c5f589f](https://www.skillfront.com/certifications/SkillFront-SFE062a7901c8905-79147802179558.pdf)), Prodemy [Credentials](https://github.com/qazqazpc/qazqazpc.github.io/blob/main/Image/M%20NIZAR%20HAMZAH%20A%20-%20CLSSGB.pdf)
   - Drive process improvement with DMAIC methodology.
   - Apply statistical tools (Minitab) to boost capability.
   - Deliver clear, actionable solutions to teams.
