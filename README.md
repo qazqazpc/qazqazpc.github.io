@@ -6,7 +6,7 @@
 <br>
 
 #### **<font color= 'blue'>TECHNICAL SKILLS</font>**
-Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio
+Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio, Minitab
 
 #### **<font color= 'blue'>WORK EXPERIENCE</font>**
 **<font color='purple'>Chemical Engineer at PT. Feng Tay Indonesia Enterprises</font>**
@@ -46,5 +46,10 @@ Python, SQL/MySQL, IBM Cognos Analytics, Tableau, BigQuery, Looker Studio
   - SQL and Python Programming
   - IBM Cognos Analytics and Google Looker Studio
 
-
+**<font color='purple'>Certified Lean Six Sigma Green Belt</font>**
+<br>Skillfront, Prodemy [Credentials]([https://coursera.org/share/b597d66c4f19cc05466c6c421c5f589f](https://www.skillfront.com/certifications/SkillFront-SFE062a7901c8905-79147802179558.pdf)),[Credentials](https://github.com/qazqazpc/qazqazpc.github.io/blob/main/Image/M%20NIZAR%20HAMZAH%20A%20-%20CLSSGB.pdf)
+  - Drive process improvement with DMAIC methodology.
+  - Apply statistical tools (Minitab) to boost capability.
+  - Deliver clear, actionable solutions to teams.
+  - Optimize workflows to enhance efficiency and quality.
 
